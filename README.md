@@ -1,4 +1,4 @@
-# Multimedia-Image-Quantizer
+# QuantizeSearchFX
 An image manipulator and seacher done for University using Java and JavaFX. 
 
 ## Overview
